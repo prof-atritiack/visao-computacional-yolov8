@@ -50,10 +50,11 @@ visao-computacional-yolov8/
 ---
 
 ## Referências e Fontes de Pesquisa
-- [Ultralytics YOLOv8 Docs](https://docs.ultralytics.com/)  
-- [Repositório Ultralytics](https://github.com/ultralytics/ultralytics)  
-- Material de apoio das aulas  
-- Organização do conteúdo com apoio do ChatGPT  
+- [Ultralytics YOLOv8 - Documentação Oficial](https://docs.ultralytics.com/)  
+- [Repositório Ultralytics no GitHub](https://github.com/ultralytics/ultralytics)  
+- [Documentação OpenCV](https://docs.opencv.org/)  
+- Conteúdos da IA Expert Academy  
+- Organização do material com apoio do ChatGPT  
 
 ---
 
